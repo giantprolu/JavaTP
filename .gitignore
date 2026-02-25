@@ -1,0 +1,73 @@
+# ============================================================
+# Java / Maven
+# ============================================================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ============================================================
+# IDE — IntelliJ IDEA
+# ============================================================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDE — Eclipse / Spring Tool Suite
+.classpath
+.project
+.settings/
+bin/
+.factorypath
+
+# IDE — NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# IDE — VS Code
+.vscode/
+
+# ============================================================
+# OS artefacts
+# ============================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ============================================================
+# Logs & temporaire
+# ============================================================
+*.log
+*.tmp
+*.temp
+hs_err_pid*
+
+# ============================================================
+# PDF (sujet d'évaluation — ne pas versionner)
+# ============================================================
+*.pdf
