@@ -1,4 +1,4 @@
-# PetStore — TP Évaluation JPA / Hibernate
+# PetStore — TP Évaluation JPA / Hibernate --- NATHAN CHAVAUDRA
 
 Projet pédagogique réalisé dans le cadre du cursus **SN3 — EPSI Nantes**.
 Il illustre la mise en œuvre de JPA / Hibernate sur une base MariaDB à travers la modélisation d'une chaîne d'animaleries.
